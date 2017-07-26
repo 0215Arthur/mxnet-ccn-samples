@@ -354,11 +354,16 @@ def predict(url):
 
 predict('traffic-data/Stop.jpg',)
 ```
-We then get the model's top five predictions for what this image is: 
+We then get the model's top five predictions for what this image is, find that our model got it right! The predictions:
+
 class=Stop
+
 class=Speed limit (30km/h)
+
 class=Speed limit (20km/h)
+
 class=Speed limit (70km/h)
+
 class=Bicycles crossing
 
 ## Conclusion
