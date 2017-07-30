@@ -42,7 +42,7 @@ The data set we'll use is the [German Traffic Sign Recognition Benchmark](http:/
 
 This data set consists of 39,209 training samples and 12,630 testing samples, representing 43 different traffic signs—stop signs, speed limits, various warning signs, and so on).
 
-We'll use a [pickled](https://en.wikipedia.org/wiki/Serialization#Pickle) version of the data, [training.p(https://drive.google.com/open?id=0B1MAGYyd23tnU1hXZjFwdE1PbWM) and [valid.p](https://drive.google.com/open?id=0B1MAGYyd23tnYVI4X0t3NXhiNE0). 
+We'll use a [pickled](https://en.wikipedia.org/wiki/Serialization#Pickle) version of the data, [training.p](https://drive.google.com/open?id=0B1MAGYyd23tnU1hXZjFwdE1PbWM) and [valid.p](https://drive.google.com/open?id=0B1MAGYyd23tnYVI4X0t3NXhiNE0). 
 
 Each image in the dataset is 32*32 size with three channel (RGB) color, and it belongs to a particular image class. The image class is an integer label between 0 and 43. The 'signnames.csv' file contains the mapping between the sign name and the class labels. 
 
