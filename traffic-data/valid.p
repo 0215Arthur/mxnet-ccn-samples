@@ -1,1 +1,1 @@
-validation data can be found at - https://drive.google.com/open?id=0B1MAGYyd23tnYVI4X0t3NXhiNE0
+validation data can be found at - https://www.dropbox.com/s/wsofgk6otd8qaew/valid.p?dl=0
